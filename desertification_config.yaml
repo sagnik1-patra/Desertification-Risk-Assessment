@@ -1,0 +1,13 @@
+C: 100
+dataset: goal15.forest_shares.csv
+epsilon: 0.01
+features:
+- forests_2000
+- forests_2020
+- trend
+- forest_loss
+gamma: 0.1
+kernel: RBF
+model: Support Vector Regression
+scaler: MinMaxScaler
+task: Desertification Risk Assessment
