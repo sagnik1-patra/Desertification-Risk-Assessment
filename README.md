@@ -1,4 +1,4 @@
-🌍 Desertification Risk Assessment Using AIS + HSA Hybrid Model
+🌍 Desertification Risk Assessment Using AIS + HSA Hybrid Model.
 📌 Project Title
 
 Desertification Risk Assessment Using Hybrid AIS–HSA Optimized Support Vector Machine
